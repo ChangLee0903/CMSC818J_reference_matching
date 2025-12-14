@@ -1,6 +1,3 @@
-# CMSC818J_reference_matchingHere’s a full `README.md` you can drop into the repo:
-
-````markdown
 # CMSC818J – Reference Matching for Sparse Format/Dataflow Selection
 
 This repository contains the code used in my CMSC818J project on **dictionary-based reference matching** for choosing sparse matrix compression formats and dataflows (inner vs. outer product).  
